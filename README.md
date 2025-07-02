@@ -51,6 +51,7 @@ O projeto foi gerenciado em um quadro no Trello, dividido em:
 
 Com uso de etiquetas: ✅ Feito, 🟡 Em andamento, 🔴 Pendente.
 
+[Acesse o quadro no Trello aqui](https://trello.com/invite/b/68658653b706a15a41dc70a6/ATTI1f665516f50ad071cc8b91287ed4c6c865270630/mini-projeto-landing-page-da-ana-julia-e-julia)
 ---
 
 ## Status do projeto
